@@ -26,7 +26,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "develop:playground": "cross-env GATSBY_GRAPHQL_IDE=playground gatsby develop",
+    "develope": "cross-env GATSBY_GRAPHQL_IDE=playground gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md,css}\"",
     "start": "gatsby develop",
     "serve": "gatsby serve",
