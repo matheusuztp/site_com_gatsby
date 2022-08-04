@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Sitezinho bom`,
+    title: `Programadorzao TOP!`,
+    position: 'Programa muito loco',
     description: `Testando a nova modalidade de codigos magnificos que se chama Gatsby`,
-    author: `@gatsbyjs`,
+    author: `@magu`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
   plugins: [
